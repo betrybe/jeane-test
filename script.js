@@ -171,5 +171,3 @@ window.onload = () => {
   fetchProductId();
   subItemTotalPrice();
 };
-
-
