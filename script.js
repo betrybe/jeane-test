@@ -1,5 +1,5 @@
 const urlLink = "https://api.mercadolibre.com/sites/MLB/search?q=computador"
-const urlProductId = "https://api.mercadolibre.com/items/"
+let urlProductId = "https://api.mercadolibre.com/items/"
 const total = 0;
 
 async function fetchProductId(newUrlId) {
